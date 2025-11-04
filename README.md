@@ -4,7 +4,7 @@
 
 <h1> Hello World, I'm Lars!</h1>
 
-<p><img src="assets/sun_gif.gif" width="20" align="center"/> <em>JavaScript Developer by Day at </em> <a href="https://www.idealsystems.be/">Ideal Systems</a> </p>
+<p><img src="assets/sun_gif.gif" width="20" align="center"/> <em>Web & Mobile Developer by Day at </em> <a href="https://www.codifly.be/">Codifly</a> </p>
 <p><img src="assets/moon_gif.gif" width="20" align="center"> <em>Creative developer by Night <em></p>
 
 [![Linkedin: Lars Danau](https://img.shields.io/badge/-LarsDanau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larsdanau/)](https://www.linkedin.com/in/larsdanau/)
@@ -23,7 +23,7 @@ I'm a passionate coder and eternal learner. Welcome to my coding corner! 🚀
 
 ```javascript
 const lars = {
-  age: 21,
+  age: 23,
   code: [
     "JavaScript",
     "TypeScript",
