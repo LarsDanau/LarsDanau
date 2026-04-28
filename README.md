@@ -7,9 +7,11 @@
 📍 **Aalst, Belgium**
 
 <p><img src="assets/sun_gif.gif" width="20" align="center"/> <em>Full-Stack developer (Web & Mobile) by day at </em> <a href="https://www.codifly.be/">Codifly</a> </p>
-<p><img src="assets/moon_gif.gif" width="20" align="center"> <em>Creative developer by night </em></p>
+<p><img src="assets/moon_gif.gif" width="20" align="center"> <em>Full-Stack developer by night aswell</em></p>
 
-I'm a Belgian software developer (working on web and mobile). I like building products that feel simple, fast and well crafted. Mostly working with React, React Native, Expo, TypeScript, Node.js, Bun, Turborepo, ...
+I'm a Belgian software developer building web and mobile products that feel simple, fast and well crafted.
+
+Most of my work lives around React, React Native, Expo, TypeScript, Node.js, Bun and Turborepo.
 
 ## What I work with
 
@@ -22,8 +24,14 @@ I'm a Belgian software developer (working on web and mobile). I like building pr
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+
+## Current focus
+
+Most of my time goes into building real products at work. Alongside that, I’m making more room for side projects, exploring new ideas, and continuing to broaden my skills as a full stack developer.
+
+## Open source
+
+I try to contribute back to the tools and communities I learn from by opening issues, suggesting improvements, and submitting pull requests when I can. I’ve contributed to several open source projects, with multiple PRs reviewed and approved.
 
 ## Connect
 
