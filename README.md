@@ -9,21 +9,32 @@
 <p><img src="assets/sun_gif.gif" width="20" align="center"/> <em>Full-Stack developer (Web & Mobile) by day at </em> <a href="https://www.codifly.be/">Codifly</a> </p>
 <p><img src="assets/moon_gif.gif" width="20" align="center"> <em>Full-Stack developer by night aswell</em></p>
 
-I'm a Belgian software developer building web and mobile products that feel simple, fast and well crafted.
+I'm a Belgian software developer focused on web and mobile development. I spend most of my time building real products, while continuously exploring new technologies, expanding my full stack skill set, and investing more time into side projects and open source.
 
-Most of my work lives around React, React Native, Expo, TypeScript, Node.js, Bun and Turborepo.
+## Technologies I work with
 
-## What I work with
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-1C2024?style=flat-square&logo=expo&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![TurboRepo](https://img.shields.io/badge/-TurboRepo-FF1E56?style=flat-square&logo=turborepo&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![ElysiaJS](https://img.shields.io/badge/-ElysiaJS-05122A?style=flat)&nbsp;
+![Bun](https://img.shields.io/badge/-Bun-05122A?style=flat&logo=bun)&nbsp;
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
+![Turborepo](https://img.shields.io/badge/-Turborepo-05122A?style=flat&logo=turborepo)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
+![Lefthook](https://img.shields.io/badge/-Lefthook-05122A?style=flat)&nbsp;
+![Zod](https://img.shields.io/badge/-Zod-05122A?style=flat)&nbsp;
+![tRPC](https://img.shields.io/badge/-tRPC-05122A?style=flat)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
+![Drizzle](https://img.shields.io/badge/-Drizzle-05122A?style=flat)&nbsp;
 
 ## Current focus
 
