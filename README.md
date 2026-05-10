@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="assets/bat_gif.gif" width="300">
-</p>
-
 # 👋🏻 Hi, I'm Lars!
 
 📍 **Aalst, Belgium**
